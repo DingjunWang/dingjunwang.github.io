@@ -9,10 +9,6 @@ name_pronunciation: Dingjun Wang
 first_name: Dingjun
 last_name: Wang
 
-# Status emoji
-status:
-  icon: 
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -25,7 +21,6 @@ role: PhD Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Chinese Academy of Sciences
-    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
