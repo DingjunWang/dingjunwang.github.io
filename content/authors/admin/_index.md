@@ -55,7 +55,7 @@ education:
   - area: PhD in Microbiology
     institution: University of Chinese Academy of Sciences
     date_start: 2022-09-01
-    date_end: 2028-06-01（expected）
+    date_end: 2028-06-01
     summary: |
       
     button:
@@ -72,12 +72,11 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: 1
-    institution: 1
-    date_start: 1
-    date_end: 1
+  - area: 
+    institution: 
+    date_start: 
+    date_end: 
     summary: |
-      1
 
 work:
   - position: Director of Cloud Infrastructure
@@ -86,7 +85,7 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
