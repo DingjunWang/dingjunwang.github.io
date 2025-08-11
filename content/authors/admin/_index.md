@@ -54,8 +54,8 @@ interests:
 education:
   - area: PhD in Microbiology
     institution: University of Chinese Academy of Sciences
-    date_start: 2022-09
-    date_end: 2028-06（expected）
+    date_start: 2022-09-01
+    date_end: 2028-06-01（expected）
     summary: |
       
     button:
@@ -63,8 +63,8 @@ education:
       url: 'https://example.com'
   - area: BS in Forestry
     institution: South China Agricultural University
-    date_start: 2018-09
-    date_end: 2022-06
+    date_start: 2018-09-01
+    date_end: 2022-06-01
     summary: |
       GPA: 3.8/4.0
 
@@ -72,12 +72,13 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: 
-    institution: 
-    date_start: 
-    date_end: 
+  - area: 1
+    institution: 1
+    date_start: 1
+    date_end: 1
     summary: |
-      
+      1
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
