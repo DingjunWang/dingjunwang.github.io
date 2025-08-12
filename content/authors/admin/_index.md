@@ -56,12 +56,7 @@ education:
     date_start: 2018-09-01
     date_end: 2022-06-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
 
 
 # Skills
@@ -103,8 +98,7 @@ languages:
     percent: 75
   - name: Chinese
     percent: 100
-  - name: 
-    percent: 
+ 
 
 # Awards.
 #   Add/remove as many awards below as you like.
